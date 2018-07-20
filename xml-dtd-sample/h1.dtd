@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT iiit (cse+)>
+<!ELEMENT cse (name,sport)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT sport (#PCDATA)>
+<!ATTLIST cse roll ID #REQUIRED>
+<!ATTLIST cse gender (male|female) "male">

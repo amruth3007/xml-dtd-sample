@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE iiit SYSTEM "h1.dtd">
+<iiit>
+	<cse roll="cse01" gender="male">
+		<name>abc</name>
+		<sport>cricket</sport>
+	
+	</cse>
+
+	<cse roll="cse02" gender="male">
+		<name>abcd</name>
+		<sport>badminton</sport>
+	
+	</cse>	
+    </iiit>
